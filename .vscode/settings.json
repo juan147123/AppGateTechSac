@@ -1,0 +1,14 @@
+{
+  "search.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    "android": true,
+    "build": true,
+    "ios": true,
+    "assets": true,
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "dart.flutterSdkPath": ".fvm/flutter_sdk",
+}
